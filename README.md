@@ -18,6 +18,10 @@ Madhu Parvathaneni alias MS is a Solutions Architect and CEO at Make Skilled. He
     <th>Name of Activity</th>
   </tr>
   <tr>
+    <td>1</td>
+    <td>Day 3</td>
+    <td>Introduction to IoT with AI</td>
+  <tr>
     <td>2</td>
     <td>Day 3</td>
     <td>Introduction to ESP8266</td>
